@@ -1,8 +1,6 @@
 package main
 
-import (
-	"Leet/src/base"
-)
+import "Leet/src/base"
 
 // 找出数组中第k大的元素
 // https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
