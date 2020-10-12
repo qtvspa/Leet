@@ -1,7 +1,8 @@
 package main
 
-// 判定是否有环
+// 判定链表中是否有环
 // 思路: 哈希表、快慢指针
+// https://leetcode-cn.com/problems/linked-list-cycle/
 
 type ListNode struct {
 	Val int
